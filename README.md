@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Kas!
 
 ## 💬 About me
-I'm a Frontend dev with over 7 years of experience specializing in creating seamless user experiences. I spent 3 years at Polkadex, where I contributed to major projects like the Exchange, PolkaPool, and Thea Bridge. Additionally, I have worked on other exciting projects, including Deviant, Vault, etc. I'm fluent in Spanish and Portuguese, and I'm highly passionate about Web3 and blockchain technologies, constantly exploring new trends and innovations in the space.
+I'm a Frontend dev with over 7 years of experience specializing in creating seamless user experiences. I spent +3 years at Polkadex, where I contributed to major projects like the Exchange, PolkaPool, and Thea Bridge. Additionally, I have worked on other exciting projects, including Deviant, Vault, etc. I'm fluent in Spanish and Portuguese, and I'm highly passionate about Web3 and blockchain technologies, constantly exploring new trends and innovations in the space.
 
 ### 🔧 Tech Stack
 
