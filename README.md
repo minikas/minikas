@@ -40,10 +40,11 @@ I'm a Frontend dev with over 7 years of experience specializing in creating seam
 
 - React, Next.js, React Native, Expo, TypeScript
 - TailwindCSS, Styled Components, Styled System, SCSS, CSS-in-JS
-- Redux, Redux-Saga, GraphQL, Apollo
-- Formik, Yup, React Hook Form
-- Sentry, Docusaurus, Git, useHooks
+- Redux, Redux-Saga, GraphQL, Apollo, Recoil, Context API
+- Formik, Yup, React Hook Form, Zod
+- Sentry, Docusaurus, Git, useHooks, Storybook
 - Polkadot.js, Strapi, Supabase, Firebase
+- AWS Amplify, Amazon S3
 ...and all that have docs!
   
 ### 🔭 What I’m Building Now
