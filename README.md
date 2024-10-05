@@ -1,7 +1,5 @@
 # Hey there! 👋 I'm Kas!
 
-## 💬 About me
-
 I've spent over 7 years crafting intuitive user interfaces and making digital experiences smoother. I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.trade), [PolkaPool](https://polkapool.polkadex.trade), and [Thea Bridge](https://orderbook.polkadex.trade/thea?from=Polkadot&to=Polkadex&asset=DOT). Fluent in Spanish and Portuguese, I'm super passionate about Web3 and blockchain, always diving into new trends in the space. On weekends, you’ll find me hiking with my dog or out fishing.
 
 ### 🔧 Tech Stack
