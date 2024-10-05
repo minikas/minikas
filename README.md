@@ -1,7 +1,8 @@
 # Hey there! 👋 I'm Kas!
 
 ## 💬 About me
-I'm a Frontend dev with over 7 years of experience specializing in creating seamless user experiences. I spent +3 years at Polkadex, where I contributed to major projects like the [Orderbook Exchange](https://orderbook.polkadex.trade), [PolkaPool](https://polkapool.polkadex.trade), and [Thea Bridge](https://orderbook.polkadex.trade/thea?from=Polkadot&to=Polkadex&asset=DOT). Additionally, I have worked on other exciting projects, including Deviant, Vault, etc. I'm fluent in Spanish and Portuguese, and I'm highly passionate about Web3 and blockchain technologies, constantly exploring new trends and innovations in the space.
+
+I've spent over 7 years crafting intuitive user interfaces and making digital experiences smoother. I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.trade), [PolkaPool](https://polkapool.polkadex.trade), and [Thea Bridge](https://orderbook.polkadex.trade/thea?from=Polkadot&to=Polkadex&asset=DOT). Fluent in Spanish and Portuguese, I'm super passionate about Web3 and blockchain, always diving into new trends in the space. On weekends, you’ll find me hiking with my dog or out fishing.
 
 ### 🔧 Tech Stack
 
@@ -48,11 +49,9 @@ I'm a Frontend dev with over 7 years of experience specializing in creating seam
 ...and all that have docs!
   
 ### 🔭 What I’m Building Now
-I’m currently focused on launching personal projects, leveraging my experience with Web3 and blockchain technologies to bring innovative ideas to life.
-In addition, I’m deepening my knowledge of Solidity to build smart contracts and decentralized applications (dApps).
+I’m currently focused on launching personal projects. In addition, I’m deepening my knowledge of Solidity to build smart contracts and decentralized applications (dApps).
 
 ### 🎯 Eager to Collaborate On
-I'm always excited to collaborate on revolutionary projects that challenge the status quo—particularly in the Web3 and blockchain space. If you’re working on something that could make a difference, let’s connect!
-Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/kas-ferreira)!
+I'm always excited to collaborate on revolutionary projects that challenge the status quo—particularly in the Web3 and blockchain space. If you’re working on something that could make a difference, [let’s connect](https://www.linkedin.com/in/kas-ferreira) !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minikas&show_icons=true&theme=transparent&hide_border=true)
