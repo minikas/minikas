@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Kas!
 
-I've spent over 7 years crafting intuitive user interfaces and making digital experiences smoother. I contributed to major projects at Polkadex, including the [Orderbook Exchange](https://orderbook.polkadex.trade), [PolkaPool](https://polkapool.polkadex.trade), and [Thea Bridge](https://orderbook.polkadex.trade/thea?from=Polkadot&to=Polkadex&asset=DOT). Fluent in Spanish and Portuguese, I'm super passionate about Web3 and blockchain, always diving into new trends in the space. On weekends, you’ll find me hiking with my dog or out fishing.
+I've spent over 7 years crafting intuitive user interfaces and making digital experiences smoother. Fluent in Spanish and Portuguese, I'm super passionate about Web3, always diving into new trends in the space. On weekends, you’ll find me hiking with my dog or out fishing.
 
 ### 🔧 Tech Stack
 
@@ -45,9 +45,6 @@ I've spent over 7 years crafting intuitive user interfaces and making digital ex
 - Polkadot.js, Strapi, Supabase, Firebase
 - AWS Amplify, Amazon S3
 ...and all that have docs!
-  
-### 🔭 What I’m Building Now
-I’m currently focused on launching personal projects. In addition, I’m deepening my knowledge of Solidity to build smart contracts and decentralized applications (dApps).
 
 ### 🎯 Eager to Collaborate On
 I'm always excited to collaborate on revolutionary projects that challenge the status quo—particularly in the Web3 and blockchain space. If you’re working on something that could make a difference, [let’s connect](https://www.linkedin.com/in/kas-ferreira) !
